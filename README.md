@@ -10,3 +10,5 @@ Texto: Insira um texto livre para ser exibido quando o QR Code for escaneado.
 Telefone: Gere um QR Code que facilita a realização de uma chamada telefônica.
 Email: Crie um QR Code para enviar um email automaticamente ao escanear.
 Contato (vCard): Insira informações de contato (nome, telefone, email) para gerar um QR Code que pode ser salvo como um contato no smartphone.
+
+Link para testar o API: https://mourapontes.github.io/QR-Code-Generator/
